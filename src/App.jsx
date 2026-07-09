@@ -6,7 +6,7 @@ import Education from './components/Education';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
-import Footer from './components/Footer'; // 1. Import your new Footer file
+import Footer from './components/Footer'; 
 
 export default function App() {
   return (
