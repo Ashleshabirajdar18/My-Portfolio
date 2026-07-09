@@ -2,7 +2,6 @@
   "name": "my",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://ashleshabirajdar18.github.io/My-Portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
